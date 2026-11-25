@@ -1,0 +1,13 @@
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.xdv
+*.synctex.gz
+*.synctex(busy)
+touhou_main.pdf
+dist/
